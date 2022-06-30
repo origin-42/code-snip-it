@@ -57,6 +57,6 @@ Direct any questions too;
 
 ## Additions
 
-[![snippet](./assets/images/Screenshot%202022-02-19%20205804.png)](https://origin-42.github.io/Dave-Plummer-Portfolio/)
-[![snippet](./assets/images/Screenshot%202022-02-19%20205804.png)](https://origin-42.github.io/Dave-Plummer-Portfolio/)
-[![snippet](./assets/images/Screenshot%202022-02-19%20205804.png)](https://origin-42.github.io/Dave-Plummer-Portfolio/)
+[![snippet](./assets/home-empty.png)](https://text-editor-snipit.herokuapp.com/)
+[![snippet](./assets/home-filled.png)](https://text-editor-snipit.herokuapp.com/)
+[![snippet](./assets/pwa-dl.png)](https://text-editor-snipit.herokuapp.com/)
