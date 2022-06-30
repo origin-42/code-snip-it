@@ -57,6 +57,6 @@ Direct any questions too;
 
 ## Additions
 
-[![snippet](./assets/home-empty.png)](https://text-editor-snipit.herokuapp.com/)
-[![snippet](./assets/home-filled.png)](https://text-editor-snipit.herokuapp.com/)
-[![snippet](./assets/pwa-dl.png)](https://text-editor-snipit.herokuapp.com/)
+[![snippet](./assets/home-empty.jpg)](https://text-editor-snipit.herokuapp.com/)
+[![snippet](./assets/home-filled.jpg)](https://text-editor-snipit.herokuapp.com/)
+[![snippet](./assets/pwa-dl.jpg)](https://text-editor-snipit.herokuapp.com/)
