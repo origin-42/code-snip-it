@@ -26,10 +26,10 @@ export const getDb = async () => {
   const todosDb = await openDB('jate', 1);
   const tx = todosDb.transaction('jate', 'readonly');
   const store = tx.objectStore('jate');
-  const request = store.getAll();
+  const request = store.getAll(1);
   const result = await request;
   console.log('result.value', result);
-  return result;
+  return result?.value;
 }
 
 initdb();
